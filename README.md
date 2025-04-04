@@ -15,4 +15,12 @@ an simple python script for converting exe to js  , standalone js can be used to
 
 Your can modify the script and add extra obfuscation to make it even more stronger for now this is just an simple script made by Xanthorox AI 
 
+# Video Demo How it works with a r@t
+
+
+
+
+https://github.com/user-attachments/assets/6310f89e-e8b9-4129-b868-dcade228789c
+
+
 
